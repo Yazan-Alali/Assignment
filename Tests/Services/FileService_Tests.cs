@@ -19,7 +19,7 @@ public class FileService_Tests
         {
 
             // act
-            var result = fileService.SaveContentToFile(content);
+            var result = fileService.SaveToFile(content);
 
             // Assert 
             Assert.True(result);
@@ -42,7 +42,7 @@ public class FileService_Tests
         File.WriteAllText(fileName, content);
         
         IFileService fileService = new FileService(fileName);
-        fileService.SaveContentToFile(content);
+        fileService.SaveToFile(content);
        
         
         try

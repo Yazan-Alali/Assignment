@@ -1,0 +1,8 @@
+/Users/yzn/ProjectsC#/Assignment/Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_Tests
+/Users/yzn/ProjectsC#/Assignment/Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_Tests
+/Users/yzn/ProjectsC#/Assignment/Tests/obj/Debug/net9.0/Tests.csproj.AssemblyReference.cache
+/Users/yzn/ProjectsC#/Assignment/Tests/obj/Debug/net9.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yzn/ProjectsC#/Assignment/Tests/obj/Debug/net9.0/Tests.AssemblyInfoInputs.cache
+/Users/yzn/ProjectsC#/Assignment/Tests/obj/Debug/net9.0/Tests.AssemblyInfo.cs
+/Users/yzn/ProjectsC#/Assignment/Tests/obj/Debug/net9.0/Tests.csproj.CoreCompileInputs.cache
+/Users/yzn/ProjectsC#/Assignment/Tests/obj/Debug/net9.0/Tests.sourcelink.json

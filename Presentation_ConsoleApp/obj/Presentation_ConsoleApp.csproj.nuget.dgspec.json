@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yzn/ProjectsC#/Assigment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj": {}
+    "/Users/yzn/ProjectsC#/Assignment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj": {
+    "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj",
+        "projectUniqueName": "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj",
+        "projectPath": "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj",
         "packagesPath": "/Users/yzn/.nuget/packages/",
-        "outputPath": "/Users/yzn/ProjectsC#/Assigment/Business/obj/",
+        "outputPath": "/Users/yzn/ProjectsC#/Assignment/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yzn/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/yzn/ProjectsC#/Assigment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj": {
+    "/Users/yzn/ProjectsC#/Assignment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yzn/ProjectsC#/Assigment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj",
+        "projectUniqueName": "/Users/yzn/ProjectsC#/Assignment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj",
         "projectName": "Presentation_ConsoleApp",
-        "projectPath": "/Users/yzn/ProjectsC#/Assigment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj",
+        "projectPath": "/Users/yzn/ProjectsC#/Assignment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj",
         "packagesPath": "/Users/yzn/.nuget/packages/",
-        "outputPath": "/Users/yzn/ProjectsC#/Assigment/Presentation_ConsoleApp/obj/",
+        "outputPath": "/Users/yzn/ProjectsC#/Assignment/Presentation_ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yzn/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj": {
-                "projectPath": "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj"
+              "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj": {
+                "projectPath": "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj"
               }
             }
           }
@@ -106,6 +106,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

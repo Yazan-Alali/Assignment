@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yzn/ProjectsC#/Assigment/Tests/Tests.csproj": {}
+    "/Users/yzn/ProjectsC#/Assignment/Tests/Tests.csproj": {}
   },
   "projects": {
-    "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj": {
+    "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj",
+        "projectUniqueName": "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj",
+        "projectPath": "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj",
         "packagesPath": "/Users/yzn/.nuget/packages/",
-        "outputPath": "/Users/yzn/ProjectsC#/Assigment/Business/obj/",
+        "outputPath": "/Users/yzn/ProjectsC#/Assignment/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yzn/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/yzn/ProjectsC#/Assigment/Tests/Tests.csproj": {
+    "/Users/yzn/ProjectsC#/Assignment/Tests/Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yzn/ProjectsC#/Assigment/Tests/Tests.csproj",
+        "projectUniqueName": "/Users/yzn/ProjectsC#/Assignment/Tests/Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "/Users/yzn/ProjectsC#/Assigment/Tests/Tests.csproj",
+        "projectPath": "/Users/yzn/ProjectsC#/Assignment/Tests/Tests.csproj",
         "packagesPath": "/Users/yzn/.nuget/packages/",
-        "outputPath": "/Users/yzn/ProjectsC#/Assigment/Tests/obj/",
+        "outputPath": "/Users/yzn/ProjectsC#/Assignment/Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yzn/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj": {
-                "projectPath": "/Users/yzn/ProjectsC#/Assigment/Business/Business.csproj"
+              "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj": {
+                "projectPath": "/Users/yzn/ProjectsC#/Assignment/Business/Business.csproj"
               }
             }
           }
@@ -110,6 +110,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.11.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "coverlet.collector": {
               "target": "Package",

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jN3uXYQQ9r4=",
+  "dgSpecHash": "kZd+nO4bNZ4=",
   "success": true,
-  "projectFilePath": "/Users/yzn/ProjectsC#/Assigment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yzn/ProjectsC#/Assignment/Presentation_ConsoleApp/Presentation_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/yzn/.nuget/packages/communitytoolkit.mvvm/8.4.0/communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "/Users/yzn/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0/microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/yzn/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
